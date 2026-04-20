@@ -1,8 +1,7 @@
-# 📑 Estudo de Caso: Gestão de Conhecimento e Onboarding com NotebookLM
+# 📑 Desafio de Projeto DIO: Gestão de Conhecimento e Onboarding com NotebookLM
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status Concluído">
-  <img src="https://img.shields.io/badge/Tecnologia-IA_Generativa-blue?style=for-the-badge&logo=google-gemini" alt="IA Generativa">
   <img src="https://img.shields.io/badge/Plataforma-DIO-orange?style=for-the-badge" alt="DIO">
 </p>
 
@@ -10,9 +9,8 @@
 Otimizar a gestão do conhecimento técnico e acelerar a curva de aprendizado de novos colaboradores (estagiários e trainees) no setor de Suporte de TI, utilizando as capacidades de IA generativa do **NotebookLM**.
 
 ## 👨‍💻 Apresentação e Contexto
-Este projeto une uma trajetória de mais de **20 anos em infraestrutura de TI** à especialização acadêmica em **Ciência de Dados e Inteligência Artificial**. 
 
-A motivação surgiu durante a pós-graduação, onde identifiquei o potencial do NotebookLM para transformar manuais estáticos em ferramentas de consulta dinâmica. Apliquei este conceito no ambiente corporativo para facilitar o *onboarding* tecnológico de novos talentos.
+A motivação surgiu durante minha jornada de estudos com a DIO, pela qual passou um desafio de projeto. Já tinha vinha utilizando NLM para estudos durante minha pós-gradução(Ciências de Dados com IA), onde identifiquei o potencial do NotebookLM para transformar manuais de procedimentos e tarefa em suporte TI como ferramentas de consulta dinâmica. Apliquei este conceito no ambiente corporativo para facilitar o *onboarding* tecnológico de novos talentos(joven aprendiz, estagiários e novos funcionários).
 
 ---
 
