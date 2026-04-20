@@ -26,4 +26,4 @@ Tivemos bons resultados. Ainda tem que aprimorar algumas coisas, por exemplo fic
     * PODCAST - Onde duas pessoas debatiam toda a jornada que os iniciantes teriam com o suporte de TI da empresa.
     * Os Mapas Metais - A navegação em cada tema central e abrindo com mais cochecimento sobre o assunto em questão.
     * As apresentações - Pdf e Power Point, como uma breve visão sobre todas as tarefas e responsabildades do setor de TI.
-Os prompstas foram curtos e bem assertivos dentro da proposta de que é intruir o aprendiz a realizar as tarefas. quando tiverem alguma dúvida podem aprimorar seus conheicmentos através de pergutas simples.
+Os prompstas foram curtos e bem assertivos dentro da proposta de que é intruir o aprendiz a realizar as tarefas.Quando tiverem alguma dúvida podem aprimorar seus conhecimentos através de perguntas simples.
